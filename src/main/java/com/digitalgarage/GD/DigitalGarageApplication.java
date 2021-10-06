@@ -10,4 +10,5 @@ public class DigitalGarageApplication {
 		SpringApplication.run(DigitalGarageApplication.class, args);
 	}
 
+
 }
